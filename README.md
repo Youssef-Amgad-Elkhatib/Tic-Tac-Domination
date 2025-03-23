@@ -1,7 +1,7 @@
 # 🎲 Board Games 
 
 ## 📖 Overview
-This project provides a console-based application for managing and playing various board games with multiple types of players, including human players, random computer players, and AI-driven smart players. The project features include a game manager, board representation, and player management to facilitate smooth gameplay across different board game variants along with input validation.
+This project provides a C++ console-based application for managing and playing various board games with multiple types of players, including human players, random computer players, and AI-driven smart players. The project features include a game manager, board representation, and player management to facilitate smooth gameplay across different board game variants along with input validation.
 
 <br>
 
